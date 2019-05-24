@@ -12,11 +12,11 @@ In this assignment we are going to visit https://en.wikipedia.org/wiki/List_of_U
 # Steps to upload data to Google Clouds BigQuery DataWarehousing Solution
 1. Run the jupyter notebook to create csv file at desired location
 2. Go to Google Cloud's BigQuery page from your account 
-3. Create a Project if there is no project in your account else select the project in which you wish to upload the data
-4. Create the data-set if there is no data-set in your project else select the data-set under which you want your data 
-5. Once the data-set is selected Go-to Create Table
-6. In Source Select create table from as - Upload
-7. Browse the path where you have exported your CSV file
-8. Select <b>File Format</b> as CSV
-9. Go-to Table Name and Give the Table the desired name. Preferable Name: US_City_Data
-10. Go-to Schema => And select the Checkbox under Auto-detect Schema and input parameters 
+3. <b>Create</b> a <b>Project if there is no project</b> in your account else <b>select the project</b> in which you wish to upload the data
+4. <b>Create</b> the <b>data-set</b> if there is no data-set in your project else <b>select</b> the <b>data-set</b> under which you want your data 
+5. Once the data-set is selected Go-to <b>Create Table</b>
+6. In <b>Source</b> Select create table from as - <b>Upload</b>
+7. <b>Browse</b> the path where you have exported your <b>CSV file</b>
+8. Select <b>File Format</b> as <b>CSV</b>
+9. Go-to <b>Table Name</b> and <b>Give the Table the desired name</b>. Preferable Name: US_City_Data
+10. Go-to <b>Schema</b> => And <b>select the Checkbox under Auto-detect Schema and input parameters</b> 
