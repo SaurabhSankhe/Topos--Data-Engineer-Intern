@@ -7,7 +7,7 @@
 # Project Description:
 In this assignment we are going to visit https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population website and extract the data about each cities which is displayed in the first table of the page. There are links to each city in that page which then gives us extra information about the city and has various other information, we are going to extract first short paragraph about the city i.e City Description and the list of Zipcodes available in that particular city and export the complete data to BigQuery importable csv file.
 
-### Note: Please specify the path to csv_Path variable in the jupyter notebook where you want to export yore CSV file in your system
+### Note: Please specify the path to csv_Path variable in the jupyter notebook where you want to export your CSV file in your system
 
 # Steps to upload data to Google Clouds BigQuery DataWarehousing Solution:
 1. Run the jupyter notebook to create csv file at desired location
